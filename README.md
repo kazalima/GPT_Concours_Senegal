@@ -1,4 +1,4 @@
-# GPT_Concours_Senegal
+
 # 🧠 GPT-Concours-Sénégal
 
 Projet académique : **Développement d’un modèle GPT (LLM) pour l’assistance à la préparation des concours sénégalais**
